@@ -1,0 +1,1684 @@
+{
+    "level": [
+    {
+        "levelNum": 1,
+        "recipePart": [
+            {
+                "sentence": "_ in feine Scheiben schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Scheiben"
+            },
+            {
+                "sentence": "_ reiben.",
+                "verb": "Reiben",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in die trockene Pfanne geben und unter Rühren rösten.",
+                "verb": "Rösten",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "Mit _ würzen.",
+                "verb": "Würzen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ salzen und in die Pfanne geben.",
+                "verb": "Salzen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ vierteln.",
+                "verb": "Vierteln",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ grob hacken.",
+                "verb": "Hacken",
+                "attribute": "Grob"
+            },
+            {
+                "sentence": "_ halbieren",
+                "verb": "Halbieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ bei mittlerer Hitze in einer großen Pfanne erhitzen.",
+                "verb": "Erhitzen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ in die Pfanne geben und knusprig braten.",
+                "verb": "Braten",
+                "attribute": "Knusprig"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 2,
+        "recipePart": [
+            {
+                "sentence": "_ in die Pfanne geben und anschwitzen.",
+                "verb": "Anschwitzen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ schälen.",
+                "verb": "Schälen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ kleine Stücke zupfen.",
+                "verb": "Zupfen",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "Mit _ ablöschen.",
+                "verb": "Ablöschen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ köcheln lassen",
+                "verb": "Köcheln",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ mit einem Stabmixer pürieren.",
+                "verb": "Pürieren",
+                "attribute": "Stabmixer"
+            },
+            {
+                "sentence": "_ in einer Bratpfanne ca. 5 Min. goldbraun anbraten.",
+                "verb": "Braten",
+                "attribute": "Goldbraun"
+            },
+            {
+                "sentence": "_ in einen Topf geben und zum Kochen bringen.",
+                "verb": "Kochen",
+                "attribute": "Topf"
+            },
+            {
+                "sentence": "_ bissfest kochen.",
+                "verb": "Kochen",
+                "attribute": "Bissfest"
+            },
+            {
+                "sentence": "_ mit der Messerseite zerdrücken.",
+                "verb": "Zerdrücken",
+                "attribute": "Messer"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 3,
+        "recipePart": [
+            {
+                "sentence": "_ in mundgerecht große Stücke reißen",
+                "verb": "Reißen",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "_ in den Ofen geben und für ca. 40 Min. rösten.",
+                "verb": "Rösten",
+                "attribute": "Ofen"
+            },
+            {
+                "sentence": "_ in einem Topf über kleiner bis mittlerer Hitze schmelzen lassen.",
+                "verb": "Schmelzen",
+                "attribute": "Topf"
+            },
+            {
+                "sentence": "_ fein würfeln.",
+                "verb": "Würfeln",
+                "attribute": "Fein"
+            },
+            {
+                "sentence": "_ im vorgeheizten Backofen ca. 30 - 35 Min. backen.",
+                "verb": "Backen",
+                "attribute": "Backofen"
+            },
+            {
+                "sentence": "_ sehr klein hacken.",
+                "verb": "Hacken",
+                "attribute": "klein"
+            },
+            {
+                "sentence": "_ entkernen.",
+                "verb": "Entkernen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ pürieren, bis es cremig ist.",
+                "verb": "Pürieren",
+                "attribute": "Cremig"
+            },
+            {
+                "sentence": "_ anschwitzen, bis es glasig ist",
+                "verb": "Anschwitzen",
+                "attribute": "Glasig"
+            },
+            {
+                "sentence": "In der Zwischenzeit _ putzen",
+                "verb": "Putzen",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 4,
+        "recipePart": [
+            {
+                "sentence": "_ in einem Becher kochendem Wasser anrühren.",
+                "verb": "Anrühren",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ in dünne Scheiben hobeln.",
+                "verb": "Hobeln",
+                "attribute": "Scheiben"
+            },
+            {
+                "sentence": "Vom _ den Strunk entfernen.",
+                "verb": "Entfernen",
+                "attribute": "Strunk"
+            },
+            {
+                "sentence": "_ 5 Minuten lang dünsten.",
+                "verb": "Dünsten",
+                "attribute": ""
+            },
+            {
+                "sentence": "Den _ fast komplett verkochen lassen.",
+                "verb": "Verkochen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ kontinuierlich rühren.",
+                "verb": "Rühren",
+                "attribute": ""
+            },
+            {
+                "sentence": "Jetzt 2 EL _ unterrühren.",
+                "verb": "Unterrühren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ mit einem Handmixer steif schlagen.",
+                "verb": "Schlagen",
+                "attribute": "Steif"
+            },
+            {
+                "sentence": "_ in die Flüssigkeit sieben.",
+                "verb": "Sieben",
+                "attribute": "Flüssigkeit"
+            },
+            {
+                "sentence": "_ 3-5 Minuten abgedeckt ruhen lassen.",
+                "verb": "Ruhen lassen",
+                "attribute": "Abgedeckt"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 5,
+        "recipePart": [
+            {
+                "sentence": "Die Schale von einer _ abreiben.",
+                "verb": "Abreiben",
+                "attribute": "Schale"
+            },
+            {
+                "sentence": "Den Saft aus zwei _ pressen.",
+                "verb": "Pressen",
+                "attribute": "Saft"
+            },
+            {
+                "sentence": "_ in ein Sieb geben und die Flüssigkeit abtropfen lassen.",
+                "verb": "Abtropfen",
+                "attribute": "Sieb"
+            },
+            {
+                "sentence": "Die Blätter des _ gründlich waschen.",
+                "verb": "Waschen",
+                "attribute": "Blätter"
+            },
+            {
+                "sentence": "_ mit Olivenöl einreiben.",
+                "verb": "Einreiben",
+                "attribute": "Olivenöl"
+            },
+            {
+                "sentence": "Mit _ abschmecken.",
+                "verb": "Abschmecken",
+                "attribute": ""
+            },
+            {
+                "sentence": "Bei mittlerer Temperatur etwas _ in eine Pfanne geben",
+                "verb": "Geben",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "Nachdem alles geschmolzen ist, _ in die Pfanne legen",
+                "verb": "Legen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ etwas schwenken, damit es gleichmäßig mit geschmolzener Butter bedeckt wird.",
+                "verb": "Schwenken",
+                "attribute": "Butter"
+            },
+            {
+                "sentence": "Jede Scheibe mit _ bedecken.",
+                "verb": "Bedecken",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 6,
+        "recipePart": [
+            {
+                "sentence": "Die Hälfte des _ auf eine Scheibe legen.",
+                "verb": "Legen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ mit der gerösteten Seite nach oben für ca. 3 Min. braten.",
+                "verb": "Braten",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in einem Sieb unter fließendem Wasser waschen.",
+                "verb": "Waschen",
+                "attribute": "Sieb"
+            },
+            {
+                "sentence": "Den _ in zwei Hälften schneiden",
+                "verb": "Schneiden",
+                "attribute": "Hälften"
+            },
+            {
+                "sentence": "_ mit Paprikapulver einreiben.",
+                "verb": "Einreiben",
+                "attribute": "Paprikapulver"
+            },
+            {
+                "sentence": "_ mit einem Messer schälen",
+                "verb": "Schälen",
+                "attribute": "Messer"
+            },
+            {
+                "sentence": "_ mit restlichen Zutaten verrühren",
+                "verb": "Verrühren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ unter laufendem Wasser abspülen.",
+                "verb": "Abspülen",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ 20 Minuten lang in einer Brühe aufquellen lassen.",
+                "verb": "Aufquellen",
+                "attribute": "Brühe"
+            },
+            {
+                "sentence": "Pfanne mit Deckel bei mittlerer Hitze erwärmen und mit etwas _ benetzen.",
+                "verb": "Benetzen",
+                "attribute": "Pfanne"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 7,
+        "recipePart": [
+            {
+                "sentence": "_ mit Zitronensaft garnieren.",
+                "verb": "Garnieren",
+                "attribute": "Zitronensaft"
+            },
+            {
+                "sentence": "_ entnehmen und in eine Schüssel Eiswasser geben, damit sie abkühlen.",
+                "verb": "Abkühlen",
+                "attribute": "Eiswasser"
+            },
+            {
+                "sentence": "_ in eine Auflaufform gießen",
+                "verb": "Gießen",
+                "attribute": "Auflaufform"
+            },
+            {
+                "sentence": "_ vorsichtig mit einem Löffel ins kochende Wasser geben",
+                "verb": "Geben",
+                "attribute": "Löffel"
+            },
+            {
+                "sentence": "_ in feine Ringe schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Ringe"
+            },
+            {
+                "sentence": "_ vom Stiel entfernen.",
+                "verb": "Entfernen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in ca. 4 cm breite Streifen reißen.",
+                "verb": "Reißen",
+                "attribute": "Streifen"
+            },
+            {
+                "sentence": "_ rupfen und bis zum Servieren zur Seite stellen.",
+                "verb": "Rupfen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ anbraten, bis sie weich sind.",
+                "verb": "Anbraten",
+                "attribute": "Weich"
+            },
+            {
+                "sentence": "_ zu einem Pulver mahlen.",
+                "verb": "Mahlen",
+                "attribute": "Pulver"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 8,
+        "recipePart": [
+            {
+                "sentence": "_ von allen Seiten panieren.",
+                "verb": "Panieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ braten, bis alles duftet.",
+                "verb": "Braten",
+                "attribute": ""
+            },
+            {
+                "sentence": "Ca. 10 Min. die _ sanft köcheln lassen. ",
+                "verb": "Köcheln",
+                "attribute": "Sanft"
+            },
+            {
+                "sentence": "Den Saft von _ auspressen.",
+                "verb": "auspressen",
+                "attribute": "Saft"
+            },
+            {
+                "sentence": "Mit _ beträufeln und zum Einziehen beiseite stellen.",
+                "verb": "beträufeln",
+                "attribute": ""
+            },
+            {
+                "sentence": "Die Kerne von _ entfernen.",
+                "verb": "Entfernen",
+                "attribute": "Kerne"
+            },
+            {
+                "sentence": "Die Schale von _ aufbrechen",
+                "verb": "Aufbrechen",
+                "attribute": "Schale"
+            },
+            {
+                "sentence": "_ im Wasserdampf langsam garen lassen.",
+                "verb": "Garen",
+                "attribute": "Wasserdampf"
+            },
+            {
+                "sentence": "Mit _ verfeinern und anschließend anrichten",
+                "verb": "Verfeinern",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in lauwarmen Wasser auflösen.",
+                "verb": "Auflösen",
+                "attribute": "Wasser"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 9,
+        "recipePart": [
+            {
+                "sentence": "Die Schüssel einölen und _ hineingeben.",
+                "verb": "Hineingeben",
+                "attribute": "Schüssel"
+            },
+            {
+                "sentence": "_ in das Blech geben und verteilen.",
+                "verb": "Verteilen",
+                "attribute": "Blech"
+            },
+            {
+                "sentence": "In der Zwischenzeit _ fein reiben.",
+                "verb": "Reiben",
+                "attribute": "Fein"
+            },
+            {
+                "sentence": "_ inklusive der Stängel hacken",
+                "verb": "Hacken",
+                "attribute": "Stängel"
+            },
+            {
+                "sentence": "Reduzieren lassen, dann _ aus der Dose hinzugeben.",
+                "verb": "Hinzugeben",
+                "attribute": "Dose"
+            },
+            {
+                "sentence": "Mit einem Schneebesen _ unterrühren.",
+                "verb": "Unterrühren",
+                "attribute": "Schneebesen"
+            },
+            {
+                "sentence": "Nun _ in einer tiefen Pfanne auf mittlerer Stufe erhitzen.",
+                "verb": "Erhitzen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "Erst _ etwa 3-4 Minuten andünsten.",
+                "verb": "Andünsten",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ fast komplett verkochen lassen.",
+                "verb": "Verkochen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Jetzt Kelle für Kelle _ in den Topf schöpfen.",
+                "verb": "Schöpfen",
+                "attribute": "Topf"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 10,
+        "recipePart": [
+            {
+                "sentence": "_ unter rühren und schwenken glasig dünsten.",
+                "verb": "Dünsten",
+                "attribute": "Glasig"
+            },
+            {
+                "sentence": "_ in ca. 5cm lange Stifte schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Stifte"
+            },
+            {
+                "sentence": "_ in einen großen Topf voll kaltem Wasser geben.",
+                "verb": "Geben",
+                "attribute": "kaltes Wasser"
+            },
+            {
+                "sentence": "_ mit der Marinade verquirlen.",
+                "verb": "Verquirlen",
+                "attribute": "Marinade"
+            },
+            {
+                "sentence": "Anschließend _ in relativ große Stücke schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "_ vom Stiel zupfen und beiseite stellen.",
+                "verb": "Zupfen",
+                "attribute": "Stiel"
+            },
+            {
+                "sentence": "_ in das heiße Öl geben und kurz anrösten.",
+                "verb": "Anrösten",
+                "attribute": "Öl"
+            },
+            {
+                "sentence": "_ für etwa 15 Minuten braten.",
+                "verb": "Braten",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ andicken lassen bis die Konsistenz einer Paste ähneld.",
+                "verb": "Andicken",
+                "attribute": "Paste"
+            },
+            {
+                "sentence": "_ auf ein Backblech geben und auf der obersten Schiene im Ofen backen.",
+                "verb": "Backen",
+                "attribute": "Ofen"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 11,
+        "recipePart": [
+            {
+                "sentence": "_ erhitzen bis es sehr flüssig ist.",
+                "verb": "Erhitzen",
+                "attribute": "Flüssig"
+            },
+            {
+                "sentence": "_ in kleine Röschen teilen.",
+                "verb": "Teilen",
+                "attribute": "Röschen"
+            },
+            {
+                "sentence": "Danach _ abgießen.",
+                "verb": "Abgießen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Anschließend in _ wenden.",
+                "verb": "Wenden",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit _ großzügig garnieren.",
+                "verb": "Garnieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ der Länge nach halbieren.",
+                "verb": "Halbieren",
+                "attribute": "Der Länge nach"
+            },
+            {
+                "sentence": "_ mit Küchenpapier trocken tupfen.",
+                "verb": "Tupfen",
+                "attribute": "Trocken"
+            },
+            {
+                "sentence": "_ in dicke Streifen schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Dicke Streifen"
+            },
+            {
+                "sentence": "Anschließend _ darüber gießen.",
+                "verb": "Gießen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit _ bestreuen.",
+                "verb": "Bestreuen",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 12,
+        "recipePart": [
+            {
+                "sentence": "_ abgedeckt im Kühlschrank marinieren lassen.",
+                "verb": "Marinieren",
+                "attribute": "Kühlschrank"
+            },
+            {
+                "sentence": "_ mit Frischhaltefolie abdecken.",
+                "verb": "Abdecken",
+                "attribute": "Frischhaltefolie."
+            },
+            {
+                "sentence": "_ mit einem Spatel wenden und zurück in den Ofen schieben.",
+                "verb": "Wenden",
+                "attribute": "Spatel"
+            },
+            {
+                "sentence": "Weiterbacken bis _ goldbraun ist.",
+                "verb": "Backen",
+                "attribute": "Goldbraun"
+            },
+            {
+                "sentence": "Unter ständigem Rühren _ köcheln.",
+                "verb": "Köcheln",
+                "attribute": "Unter Rühren"
+            },
+            {
+                "sentence": "_ in einer kleinen Schüssel zerdrücken.",
+                "verb": "Zerdrücken",
+                "attribute": "Schüssel"
+            },
+            {
+                "sentence": "Anschließend mit _ überziehen.",
+                "verb": "Überziehen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ schräg in Scheiben schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Schräg"
+            },
+            {
+                "sentence": "_ beidseitig leicht salzen.",
+                "verb": "Salzen",
+                "attribute": "Beidseitig"
+            },
+            {
+                "sentence": "Bei mittlerer Hitze _ anbraten bis es knusprig ist.",
+                "verb": "Anbraten",
+                "attribute": "Knusprig"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 13,
+        "recipePart": [
+            {
+                "sentence": "Nach einiger Zeit _ in der Pfanne umdrehen.",
+                "verb": "Umdrehen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ in etwas kaltem Wasser auflösen.",
+                "verb": "Auflösen",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "In einer Schale _ mit einer Gabel verquirlen.",
+                "verb": "Verquirlen",
+                "attribute": "Gabel"
+            },
+            {
+                "sentence": "_ mit der Soße übergießen.",
+                "verb": "Übergießen",
+                "attribute": "Soße"
+            },
+            {
+                "sentence": "_ durch ein feines Sieb drücken.",
+                "verb": "Drücken",
+                "attribute": "Sieb"
+            },
+            {
+                "sentence": "_ in einer großen Schüssel mit kaltem Wasser waschen.",
+                "verb": "Waschen",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ in das kochende Wasser geben und kurz blanchieren.",
+                "verb": "Blanchieren",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ mit einer Schaumkelle aus dem Wasser nehmen.",
+                "verb": "Nehmen",
+                "attribute": "Schaumkelle"
+            },
+            {
+                "sentence": "_ grob im Standmixer pürieren.",
+                "verb": "Pürieren",
+                "attribute": "Standmixer"
+            },
+            {
+                "sentence": "_ zu einem Brei zerstampfen.",
+                "verb": "Zerstampfen",
+                "attribute": "Brei"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 14,
+        "recipePart": [
+            {
+                "sentence": "_ in kleine Stücke zupfen.",
+                "verb": "Zupfen",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "Vorsichtig _ ins Öl legen und frittieren.",
+                "verb": "Frittieren",
+                "attribute": "Öl"
+            },
+            {
+                "sentence": "_ in eine leicht geölte Auflaufform legen.",
+                "verb": "Geben",
+                "attribute": "Auflaufform"
+            },
+            {
+                "sentence": "Mit _ dünn bestreichen.",
+                "verb": "Bestreichen",
+                "attribute": "Dünn"
+            },
+            {
+                "sentence": "Nach dem Braten _ auf Küchenpapier abtropfen lassen.",
+                "verb": "Abtropfen",
+                "attribute": "Küchenpapier"
+            },
+            {
+                "sentence": "_ mit der Marinade ziehen lassen.",
+                "verb": "Ziehen",
+                "attribute": "Marinade"
+            },
+            {
+                "sentence": "_ für ca. 4 Minuten grillen.",
+                "verb": "Grillen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Anrichten und mit _ garnieren.",
+                "verb": "Garnieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in eine große Schüssel sieben.",
+                "verb": "Sieben",
+                "attribute": "Schüssel"
+            },
+            {
+                "sentence": "_ durch ein feines Sieb passieren.",
+                "verb": "Passieren",
+                "attribute": "Sieb"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 15,
+        "recipePart": [
+            {
+                "sentence": "_ backen, bis die Haut sich dunkel färbt.",
+                "verb": "Backen",
+                "attribute": "Dunkel"
+            },
+            {
+                "sentence": "_ knusprig grillen.",
+                "verb": "Grillen",
+                "attribute": "Knusprig"
+            },
+            {
+                "sentence": "Geschälte _ klein Schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Geschält"
+            },
+            {
+                "sentence": "_ in mungerechte Stücke zupfen.",
+                "verb": "Zupfen",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "_ mit einem Messer zerbröseln.",
+                "verb": "Zerbröseln",
+                "attribute": "Messer"
+            },
+            {
+                "sentence": "Die Haut von _ abziehen.",
+                "verb": "Abziehen",
+                "attribute": "Haut"
+            },
+            {
+                "sentence": "Von _ das Kerngehäuse entfernen.",
+                "verb": "Entfernen",
+                "attribute": "Kerngehäuse"
+            },
+            {
+                "sentence": "_ mit Essig beträufeln.",
+                "verb": "Beträufeln",
+                "attribute": "Essig"
+            },
+            {
+                "sentence": "_ bei niedriger Temperatur vollständig ausdämpfen lassen.",
+                "verb": "Ausdämpfen",
+                "attribute": "Vollständig"
+            },
+            {
+                "sentence": "_ mit einem Schäler in feine Streifen hobeln.",
+                "verb": "Hobeln",
+                "attribute": "Schäler"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 16,
+        "recipePart": [
+            {
+                "sentence": "Die Enden von _ abschneiden.",
+                "verb": "Abschneiden",
+                "attribute": "Enden"
+            },
+            {
+                "sentence": "_ in einen Zerkleinerer geben.",
+                "verb": "Geben",
+                "attribute": "Zerkleinerer"
+            },
+            {
+                "sentence": "Nun _ in einem Geschirrtuch ausdrücken.",
+                "verb": "Ausdrücken",
+                "attribute": "Geschirrtuch"
+            },
+            {
+                "sentence": "_ mit den Händen in Form bringen.",
+                "verb": "Bringen",
+                "attribute": "Händen"
+            },
+            {
+                "sentence": "_ backen bis der Boden goldbraun ist.",
+                "verb": "Backen",
+                "attribute": "Goldbraun"
+            },
+            {
+                "sentence": "_ anbraten, bis es schön weich ist.",
+                "verb": "Anbraten",
+                "attribute": "Weich"
+            },
+            {
+                "sentence": "_ gleichmäßig darauf verteilen.",
+                "verb": "Verteilen",
+                "attribute": "Gleichmäßig"
+            },
+            {
+                "sentence": "Anschließend mit _ bestreichen.",
+                "verb": "Bestreichen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ leicht einköcheln lassen.",
+                "verb": "Einköcheln",
+                "attribute": "Leicht"
+            },
+            {
+                "sentence": "_ im lauwarmen Wasser auflösen.",
+                "verb": "Auflösen",
+                "attribute": "Wasser"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 17,
+        "recipePart": [
+            {
+                "sentence": "_ in Wasser für 5 Minuten einweichen lassen.",
+                "verb": "Einweichen",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ solange köcheln lassen, bis es dick wird.",
+                "verb": "Köcheln",
+                "attribute": "Dick"
+            },
+            {
+                "sentence": "Die _ aus dem kochenden Wasser abschöpfen.",
+                "verb": "Abschöpfen",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ schlagen, bis es steif wird.",
+                "verb": "Schlagen",
+                "attribute": "Steif"
+            },
+            {
+                "sentence": "_ in der Pfanne anschwitzen lassen.",
+                "verb": "Anschwitzen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "Den Auflauf mit _ überbacken.",
+                "verb": "Überbacken",
+                "attribute": "Auflauf"
+            },
+            {
+                "sentence": "_ 5 Minuten lang blanchieren.",
+                "verb": "Blanchieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ für wenige Minuten in der Pfanne andünsten lassen.",
+                "verb": "Andünsten",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "Nun _ bis auf das halbe Volumen einkochen.",
+                "verb": "Einkochen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Die Backform mit _ gut einfetten.",
+                "verb": "Einfetten",
+                "attribute": "Backform"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 18,
+        "recipePart": [
+            {
+                "sentence": "Siebe _ über die feuchten Zutaten.",
+                "verb": "Sieben",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in der Pfanne karamellisieren lassen.",
+                "verb": "Karamellisieren",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ mit Ei und Paniermehl panieren.",
+                "verb": "Panieren",
+                "attribute": "Ei"
+            },
+            {
+                "sentence": "_ in dünne Halbmonde schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Halbmond"
+            },
+            {
+                "sentence": "_ in feine Stifte schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Stifte"
+            },
+            {
+                "sentence": "_ mit einer Gabel auf dem Teller zerdrücken.",
+                "verb": "Zerdrücken",
+                "attribute": "Gabel"
+            },
+            {
+                "sentence": "_ mit geschmolzener Schokolade überziehen.",
+                "verb": "Überziehen",
+                "attribute": "Schokolade"
+            },
+            {
+                "sentence": "_ in flüssiges Karamell eintunken.",
+                "verb": "Eintunken",
+                "attribute": "Karamell"
+            },
+            {
+                "sentence": "Mit einer Spritztülle den Berliner mit _ füllen.",
+                "verb": "Füllen",
+                "attribute": "Spritztülle"
+            },
+            {
+                "sentence": "Den _ in drei gleich große Böden teilen.",
+                "verb": "Teilen",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 19,
+        "recipePart": [
+            {
+                "sentence": "Den Puderzucker in _ auflösen.",
+                "verb": "Auflösen",
+                "attribute": "Puderzucker"
+            },
+            {
+                "sentence": "Den fertigen Kuchen mit _ dekorieren.",
+                "verb": "Dekorieren",
+                "attribute": "Kuchen"
+            },
+            {
+                "sentence": "Den Apfelkuchen mit _ besprühen.",
+                "verb": "Besprühen",
+                "attribute": "Kuchen"
+            },
+            {
+                "sentence": "Mein Lieblingsgericht ist _",
+                "verb": "Ist",
+                "attribute": "Lieblingsgericht"
+            },
+            {
+                "sentence": "_ vorsichtig trocken tupfen.",
+                "verb": "Tupfen",
+                "attribute": "Trocken"
+            },
+            {
+                "sentence": "Filets aus _ filetieren.",
+                "verb": "Filetieren",
+                "attribute": "Filet"
+            },
+            {
+                "sentence": "Aus der Masse, in gewünschter größe, _ formen.",
+                "verb": "Formen",
+                "attribute": "Masse"
+            },
+            {
+                "sentence": "Nach dem Kochen _ direkt abschrecken.",
+                "verb": "Abschrecken",
+                "attribute": ""
+            },
+            {
+                "sentence": "Die Haut von _ abziehen.",
+                "verb": "Abziehen",
+                "attribute": "Haut"
+            },
+            {
+                "sentence": "_ in einer Schüssel aufschlagen.",
+                "verb": "Aufschlagen",
+                "attribute": "Schüssel"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 20,
+        "recipePart": [
+            {
+                "sentence": "_ nun in die Masse einarbeiten.",
+                "verb": "Einarbeiten",
+                "attribute": "Masse"
+            },
+            {
+                "sentence": "Als nächstes _ unterheben.",
+                "verb": "Unterheben",
+                "attribute": ""
+            },
+            {
+                "sentence": "Langsam _ in die Schüssel dazu gießen.",
+                "verb": "Gießen",
+                "attribute": "Schüssel"
+            },
+            {
+                "sentence": "_ vorsichtig entkernen.",
+                "verb": "Entkernen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ hauchdünn schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Hauchdünn"
+            },
+            {
+                "sentence": "_ mit einer Gabel verquirlen.",
+                "verb": "Verquirlen",
+                "attribute": "Gabel"
+            },
+            {
+                "sentence": "_ kurz aufkochen lassen und direkt vom Herd nehmen.",
+                "verb": "Aufkochen",
+                "attribute": "Kurz"
+            },
+            {
+                "sentence": "Den Stiel von _ entfernen.",
+                "verb": "Entfernen",
+                "attribute": "Stiel"
+            },
+            {
+                "sentence": "_ in Wasser quellen lassen.",
+                "verb": "Quellen",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "_ beim Verteilen zerbröseln.",
+                "verb": "Zerbröseln",
+                "attribute": "Verteilen"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 21,
+        "recipePart": [
+            {
+                "sentence": "_ mit Kräutern verfeinern.",
+                "verb": "Verfeinern",
+                "attribute": "Kräutern"
+            },
+            {
+                "sentence": "In _ über die Nacht einlegen.",
+                "verb": "Einlegen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Unter ständigem Rühren _ hinzugeben.",
+                "verb": "Hinzugeben",
+                "attribute": "Rühren"
+            },
+            {
+                "sentence": "_ in die Pfanne geben und knusprig braten.",
+                "verb": "Braten",
+                "attribute": "Knusprig"
+            },
+            {
+                "sentence": "_ fein reiben.",
+                "verb": "Reiben",
+                "attribute": "Fein"
+            },
+            {
+                "sentence": "Mit _ garnieren",
+                "verb": "Garnieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ pellen.",
+                "verb": "Pellen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ kleine Stücke zupfen.",
+                "verb": "Zupfen",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "_ mit der Hand platt drücken.",
+                "verb": "Drücken",
+                "attribute": "Platt"
+            },
+            {
+                "sentence": "_ gründlich waschen.",
+                "verb": "Waschen",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 22,
+        "recipePart": [
+            {
+                "sentence": "_ dünsten bis es gar ist.",
+                "verb": "Dünsten",
+                "attribute": "Gar"
+            },
+            {
+                "sentence": "_ im Kühlschrank ruhen lassen.",
+                "verb": "Ruhen lassen",
+                "attribute": "Kühlschrank"
+            },
+            {
+                "sentence": "_ fein raspeln.",
+                "verb": "Rasplen",
+                "attribute": "Fein"
+            },
+            {
+                "sentence": "Die Schale von _ abreiben.",
+                "verb": "Abreiben",
+                "attribute": "Schale"
+            },
+            {
+                "sentence": "Jede Scheibe mit _ belegen.",
+                "verb": "Belegen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit _ abschmecken.",
+                "verb": "Abschmecken",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit _ einreiben.",
+                "verb": "Einreiben",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ anbraten, bis sie glasig sind.",
+                "verb": "Anbraten",
+                "attribute": "Glasig"
+            },
+            {
+                "sentence": "Zunächst die Pfanne mit _ benetzen.",
+                "verb": "Benetzen",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ mit restlichen Zutaten verrühren",
+                "verb": "Verrühren",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 23,
+        "recipePart": [
+            {
+                "sentence": "_ in grobe Ringe schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Ringe"
+            },
+            {
+                "sentence": "_ im Wasserdampf langsam garen lassen.",
+                "verb": "Garen",
+                "attribute": "Wasserdampf"
+            },
+            {
+                "sentence": "_ von allen Seiten panieren.",
+                "verb": "Panieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ braten, bis alles duftet.",
+                "verb": "Braten",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ im Ofen bissfest backen.",
+                "verb": "Backen",
+                "attribute": "Bissfest"
+            },
+            {
+                "sentence": "Die Schale von _ aufbrechen",
+                "verb": "Aufbrechen",
+                "attribute": "Schale"
+            },
+            {
+                "sentence": "Die Schüssel einmehlen und _ hineingeben.",
+                "verb": "Hineingeben",
+                "attribute": "Schüssel"
+            },
+            {
+                "sentence": "_ lansam reduzieren lassen.",
+                "verb": "Reduzieren",
+                "attribute": "Langsam"
+            },
+            {
+                "sentence": "_ auf dem Blech verteilen.",
+                "verb": "Verteilen",
+                "attribute": "Blech"
+            },
+            {
+                "sentence": "Jetzt mit _ andicken.",
+                "verb": "Andicken",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 24,
+        "recipePart": [
+            {
+                "sentence": "_ backen bis es goldbraun ist.",
+                "verb": "Backen",
+                "attribute": "Goldbraun"
+            },
+            {
+                "sentence": "_ in einen großen Topf Salzwasser geben.",
+                "verb": "Geben",
+                "attribute": "Salzwasser"
+            },
+            {
+                "sentence": "_ in sechs gleich große Stücke teilen.",
+                "verb": "Teilen",
+                "attribute": "Stücke"
+            },
+            {
+                "sentence": "Anschließend in _ wenden.",
+                "verb": "Wenden",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ der Länge nach halbieren.",
+                "verb": "Halbieren",
+                "attribute": "Der Länge nach"
+            },
+            {
+                "sentence": "_ mit einem Spatel wenden.",
+                "verb": "Wenden",
+                "attribute": "Spatel"
+            },
+            {
+                "sentence": "Unter ständigem Rühren _ köcheln.",
+                "verb": "Köcheln",
+                "attribute": "Unter Rühren"
+            },
+            {
+                "sentence": "_ mit der Soße übergießen.",
+                "verb": "Übergießen",
+                "attribute": "Soße"
+            },
+            {
+                "sentence": "_ durch ein feines Sieb drücken.",
+                "verb": "Drücken",
+                "attribute": "Sieb"
+            },
+            {
+                "sentence": "_ zu einem Brei zerstampfen.",
+                "verb": "Zerstampfen",
+                "attribute": "Brei"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 25,
+        "recipePart": [
+            {
+                "sentence": "Vorsichtig _ ins Öl legen und frittieren.",
+                "verb": "Frittieren",
+                "attribute": "Öl"
+            },
+            {
+                "sentence": "_ in Schinken einwickeln.",
+                "verb": "Einwickeln",
+                "attribute": "Schinken"
+            },
+            {
+                "sentence": "_ in den Teig für einen Teigmantel tunken.",
+                "verb": "Tunken",
+                "attribute": "Teig"
+            },
+            {
+                "sentence": "Die Enden von _ abschneiden.",
+                "verb": "Abschneiden",
+                "attribute": "Enden"
+            },
+            {
+                "sentence": "_ in einen Zerkleinerer geben.",
+                "verb": "Geben",
+                "attribute": "Zerkleinerer"
+            },
+            {
+                "sentence": "Nun _ bis auf das halbe Volumen einkochen.",
+                "verb": "Einkochen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in dicke Halbmonde schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Halbmond"
+            },
+            {
+                "sentence": "Mit einem Messer in _ stechen, um Garheit zu prüfen.",
+                "verb": "Stechen",
+                "attribute": "Messer"
+            },
+            {
+                "sentence": "_ kurz in der Pfanne blondieren.",
+                "verb": "Blondieren",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ stürzen.",
+                "verb": "Stürzen",
+                "attribute": ""
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 26,
+        "recipePart": [
+            {
+                "sentence": "_ mit einer Schöpfkelle entfetten.",
+                "verb": "Entfetten",
+                "attribute": "Schöpfkelle"
+            },
+            {
+                "sentence": "_ sorgfältig entgräten.",
+                "verb": "Entgräten",
+                "attribute": ""
+            },
+            {
+                "sentence": "In einer flachen Pfanne _ flambieren.",
+                "verb": "Flambieren",
+                "attribute": "Pfanne"
+            },
+            {
+                "sentence": "_ mit der Ganache füllen.",
+                "verb": "Füllen",
+                "attribute": "Ganache"
+            },
+            {
+                "sentence": "Zum Schluss mit _ glasieren.",
+                "verb": "Glasieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ julienne schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Julienne"
+            },
+            {
+                "sentence": "_ zunächst kandieren.",
+                "verb": "Kandieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "Auf einer stabilen Oberfläche _ mürben.",
+                "verb": "Mürben",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit _ vorsichtig und leicht parfümieren",
+                "verb": "Parfümieren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ in heißem Wasser pochieren.",
+                "verb": "Pochieren",
+                "attribute": "heißem Wasser"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 27,
+        "recipePart": [
+            {
+                "sentence": "_ ausgibig mit Salz pökeln.",
+                "verb": "Pökeln",
+                "attribute": "Salz"
+            },
+            {
+                "sentence": "_ im Ofen schmoren lassen.",
+                "verb": "Schmoren",
+                "attribute": "Ofen"
+            },
+            {
+                "sentence": "_ in reichlich Wasser simmern lassen.",
+                "verb": "Simmern",
+                "attribute": "Wasser"
+            },
+            {
+                "sentence": "Vor dem Braten mit _ umwickeln.",
+                "verb": "Umwickeln",
+                "attribute": "Braten"
+            },
+            {
+                "sentence": "_ in einer Grillpfanne von allen Seiten angrillen.",
+                "verb": "Angrillen",
+                "attribute": "Grillpfanne"
+            },
+            {
+                "sentence": "_ mit etwas Öl bestreichen.",
+                "verb": "Bestreichen",
+                "attribute": "Öl"
+            },
+            {
+                "sentence": "Mit _ ummanteln.",
+                "verb": "Ummanteln",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ hinzugeben und zu einer einheitlichen Masse kneten.",
+                "verb": "Hinzugeben",
+                "attribute": "Kneten"
+            },
+            {
+                "sentence": "_ in Spalten schneiden.",
+                "verb": "Schneiden",
+                "attribute": "Spalten"
+            },
+            {
+                "sentence": "_ dünn ausrollen.",
+                "verb": "Ausrollen",
+                "attribute": "Dünn"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 28,
+        "recipePart": [
+            {
+                "sentence": "Mische _ unter, bis sie gleichmäßig bedeckt sind.",
+                "verb": "Mischen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Das innere von _ entfernen.",
+                "verb": "Entfernen",
+                "attribute": "Innere"
+            },
+            {
+                "sentence": "Mit einem Stabmixer _ glatt pürieren.",
+                "verb": "Pürieren",
+                "attribute": "Glatt"
+            },
+            {
+                "sentence": "_ darüber streuen.",
+                "verb": "Streuen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit _ bestreichen, bis die gesamte Oberfläche schön glänzt.",
+                "verb": "Bestreichen",
+                "attribute": "Glänzt"
+            },
+            {
+                "sentence": "_ großzügig zerrupfen.",
+                "verb": "Zerrupfen",
+                "attribute": ""
+            },
+            {
+                "sentence": "Das Ende von _ abschneiden.",
+                "verb": "Abschneiden",
+                "attribute": "Ende"
+            },
+            {
+                "sentence": "_ mit einer feinen Reibe reiben.",
+                "verb": "Reiben",
+                "attribute": "Feine Reibe"
+            },
+            {
+                "sentence": "_ grob mahlen.",
+                "verb": "Mahlen",
+                "attribute": "Grob"
+            },
+            {
+                "sentence": "Ca. 8 Minuten braten, bis _ durchsichtig ist.",
+                "verb": "Braten",
+                "attribute": "Durchsichtig"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 29,
+        "recipePart": [
+            {
+                "sentence": "Den Teig mit _ bestreichen.",
+                "verb": "Bestreichen",
+                "attribute": "Teig"
+            },
+            {
+                "sentence": " _ mit einer Schaumkelle abschöpfen.",
+                "verb": "Abschöpfen",
+                "attribute": "Schaumkelle"
+            },
+            {
+                "sentence": "Den Kuchen mit _ überziehen.",
+                "verb": "Überziehen",
+                "attribute": "Kuchen"
+            },
+            {
+                "sentence": "Zum Schluss _ unterrühren.",
+                "verb": "Unterrühren",
+                "attribute": ""
+            },
+            {
+                "sentence": "In der Fritteuse für 4 Minuten frittieren.",
+                "verb": "Frittieren",
+                "attribute": "Fritteuse"
+            },
+            {
+                "sentence": "Im Backofen _ 20 Minuten lang knusprig backen.",
+                "verb": "Backen",
+                "attribute": "Knusprig"
+            },
+            {
+                "sentence": "_ von beiden Seiten scharf anbraten.",
+                "verb": "Anbraten",
+                "attribute": "Scharf"
+            },
+            {
+                "sentence": "Schmelze _ über siedenem Wasser.",
+                "verb": "Schmelze",
+                "attribute": ""
+            },
+            {
+                "sentence": "Mit Deckel _ im Topf ziehen lassen.",
+                "verb": "Ziehen lassen",
+                "attribute": "Deckel"
+            },
+            {
+                "sentence": "_ mit einer Gemüsebürste putzen.",
+                "verb": "Putzen",
+                "attribute": "Gemüsebürste"
+            }
+        ]
+    
+    },
+    {
+        "levelNum": 30,
+        "recipePart": [
+            {
+                "sentence": "_ gut umrühren, sodass es nicht anbrennt!",
+                "verb": "Umrühren",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ vor dem schneiden gründlich abwaschen.",
+                "verb": "Abwaschen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ 1 Stunde lang gehen lassen.",
+                "verb": "Gehen lassen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ dünn ausrollen.",
+                "verb": "Ausrollen",
+                "attribute": "Dünn"
+            },
+            {
+                "sentence": "Das Fleisch in _ marinieren.",
+                "verb": "Marinieren",
+                "attribute": "Fleisch"
+            },
+            {
+                "sentence": "_ ordentlich salzen.",
+                "verb": "Salzen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ über Nacht im Kühschrank ziehen lassen.",
+                "verb": "Ziehen lassen",
+                "attribute": "Kühlschrank"
+            },
+            {
+                "sentence": "_ mit einer Gabel auflockern.",
+                "verb": "Auflockern",
+                "attribute": "Gabel"
+            },
+            {
+                "sentence": "_ entschuppen.",
+                "verb": "Entschuppen",
+                "attribute": ""
+            },
+            {
+                "sentence": "_ der Suppe hinzufügen.",
+                "verb": "Hinzufügen",
+                "attribute": "Suppe"
+            }
+        ]
+    
+    }
+]
+}

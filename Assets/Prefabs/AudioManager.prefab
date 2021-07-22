@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6402124738118737468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 588043258399801081}
+  - component: {fileID: 5073563929031373388}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &588043258399801081
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6402124738118737468}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 251.65063, y: 732.224, z: -181.08423}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5073563929031373388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6402124738118737468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad202c6b8fc2014d9932e3e7bef5534, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: backgroundMusic
+    clip: {fileID: 8300000, guid: 6da43d283b590374c88b74a118a1bb50, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: buttonClick
+    clip: {fileID: 8300000, guid: a78d1fdb04e742b4b951ecb2d2a49ec8, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: levelStart
+    clip: {fileID: 8300000, guid: cb8e59ec0c6988549b8da06f3f0544c9, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: levelFinished
+    clip: {fileID: 8300000, guid: 39d951134b1284447b2bf5deae9490be, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: unlock
+    clip: {fileID: 8300000, guid: d878ef5116b2a324a9167690e8cdf63b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: boilingWater
+    clip: {fileID: 8300000, guid: 9abfb28e8b28a0740bf6187d5bc764ce, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: comboFail
+    clip: {fileID: 8300000, guid: c5bb043f3a22fef4c9e8d18119eb50f6, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: plateFalling
+    clip: {fileID: 8300000, guid: 23dd8a097b4a97b4bbdb77d831d5e4cb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: swipe1
+    clip: {fileID: 8300000, guid: e2e5bfe82ea68a6469e8d6543acffa5c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: swipe2
+    clip: {fileID: 8300000, guid: db344c24ef6394248aff859ac7b5d3c5, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: swipe3
+    clip: {fileID: 8300000, guid: 36eec4cf8529d80429f8eb9c15aeb220, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: swipe4
+    clip: {fileID: 8300000, guid: 085f9e099cdbe154e8e360f7cded1b1b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: error
+    clip: {fileID: 8300000, guid: 5d818450bf8823747a18279a3d672bfa, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
